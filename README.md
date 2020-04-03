@@ -84,4 +84,5 @@ I actually quite like that reality. Fluid dynamics can get into turbulent states
 
 There's no point to any of this. It was a fun thing for me to build, and I'l probably continue playing with this toy and tweaking the rules.
 
-This [gist](https://gist.github.com/RemyPorter/d7acce350e3b94ee84c29c9fd9c9dffe) contains the code I used to generate these animations. I've annotated it some, to help make it usable for others, but I haven't made a toy application which lets non-programmers play with this. Maybe someone else will?
+## License
+Public Domain - no warranty provided or implied
